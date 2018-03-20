@@ -1,0 +1,3 @@
+[submodule "pcb/libs/Library-Arduino-Nano-Altium"]
+	path = pcb/libs/Library-Arduino-Nano-Altium
+	url = https://github.com/marcopol0/Library-Arduino-Nano-Altium
