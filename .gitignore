@@ -1,0 +1,5 @@
+# Altium files
+*.~([0-9]).*
+*.LOG
+__Previews/
+
