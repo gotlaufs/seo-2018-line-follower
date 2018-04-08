@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [pcb.PcbDoc]
+   Generated File[seo_line_follower_2018.TXT]
+   Generated File[seo_line_follower_2018.LDP]
+   Generated File[seo_line_follower_2018.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:11:28 On 08/04/2018
